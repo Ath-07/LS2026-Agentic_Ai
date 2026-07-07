@@ -1,0 +1,11 @@
+# Core LangChain (classic AgentExecutor / create_react_agent API)
+langchain==0.3.27
+langchain-community==0.3.27
+
+# LLM provider - pick the one you have an API key for
+langchain-anthropic==0.3.14
+# langchain-openai==0.2.14
+langchain-google-genai==2.1.12
+
+# Web search tool (no API key needed)
+duckduckgo-search==6.3.7

@@ -1,0 +1,6 @@
+langchain-core>=0.2.0
+langgraph>=0.0.1
+google-genai>=0.1.0
+python-telegram-bot>=21.0
+python-dotenv>=1.0.0
+langchain-google-genai
